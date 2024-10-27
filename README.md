@@ -1,4 +1,4 @@
-<![github-header-image](https://github.com/user-attachments/assets/7effc9ad-91c6-409c-a4a7-b78e723d34f9)
+![github-header-image](https://github.com/user-attachments/assets/7effc9ad-91c6-409c-a4a7-b78e723d34f9)
 
 <h3 align="center">Un estudiante de los lenguajes de las maquinas</h3>
 
