@@ -2,7 +2,7 @@
 
 <h3 align="center">Un estudiante de los lenguajes de las maquinas</h3>
 
-- 🌱 I’m currently learning **php y typescript**
+- 🌱 I’m currently learning
 
 - 📫 Como contactarme **Bottaro.juanmanuel@hotmail.com**
 
