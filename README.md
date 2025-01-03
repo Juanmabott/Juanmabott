@@ -1,4 +1,6 @@
-<h1 align="center">hola👋, soy Juan Manuel</h1>
+
+![github-header-image (1)](https://github.com/user-attachments/assets/79daefc1-2e50-41de-819e-a921e47e1589)
+
 <h3 align="center">Un estudiante de los lenguajes de las maquinas</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=juanmabott&label=Profile%20views&color=0e75b6&style=flat" alt="juanmabott" /> </p>
