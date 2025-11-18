@@ -26,18 +26,34 @@
 ## 🛠️ **Lenguajes y Herramientas**
 <p align="left">
 
- <!-- Lenguajes -->
+ <!-- Lenguajes principales -->
+ <a href="https://developer.mozilla.org/es/docs/Web/JavaScript" target="_blank">
+   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="40" height="40"/>
+ </a>
+ <a href="https://www.python.org" target="_blank">
+   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40" height="40"/>
+ </a>
+ <a href="https://www.typescriptlang.org/" target="_blank">
+   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" width="40" height="40"/>
+ </a>
+ <a href="https://www.php.net" target="_blank">
+   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" width="40" height="40"/>
+ </a>
+
+ <!-- HTML y CSS -->
  <a href="https://developer.mozilla.org/es/docs/Web/HTML" target="_blank">
    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" width="40" height="40"/>
  </a>
  <a href="https://developer.mozilla.org/es/docs/Web/CSS" target="_blank">
    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" width="40" height="40"/>
  </a>
- <a href="https://developer.mozilla.org/es/docs/Web/JavaScript" target="_blank">
-   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="40" height="40"/>
+
+ <!-- C y C# -->
+ <a href="https://www.cprogramming.com/" target="_blank">
+   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" width="40" height="40"/>
  </a>
- <a href="https://www.typescriptlang.org/" target="_blank">
-   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" width="40" height="40"/>
+ <a href="https://learn.microsoft.com/es-es/dotnet/csharp/" target="_blank">
+   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" width="40" height="40"/>
  </a>
 
  <!-- React -->
@@ -48,14 +64,6 @@
  <!-- Node.js -->
  <a href="https://nodejs.org" target="_blank">
    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" width="40" height="40"/>
- </a>
-
- <!-- Backend -->
- <a href="https://www.php.net" target="_blank">
-   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" width="40" height="40"/>
- </a>
- <a href="https://www.python.org" target="_blank">
-   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40" height="40"/>
  </a>
 
  <!-- Bases de Datos -->
@@ -86,6 +94,7 @@
  </a>
 
 </p>
+
 
 ---
 
