@@ -1,113 +1,74 @@
-![github-header-image (1)](https://github.com/user-attachments/assets/79daefc1-2e50-41de-819e-a921e47e1589)
+![Hey! I am Juan Manuel](https://github.com/user-attachments/assets/79daefc1-2e50-41de-819e-a921e47e1589)
 
-<h3 align="center">Full Stack Developer | JavaScript • React • Node.js</h3>
+<h3 align="center">Full Stack Developer · TypeScript · NestJS · Next.js · PostgreSQL</h3>
 
-<p align="left">
- <img src="https://komarev.com/ghpvc/?username=juanmabott&label=Visitas%20al%20perfil&color=0e75b6&style=flat" alt="juanmabott" />
+<p align="center">I build web apps end to end, from the database to the UI, with a growing focus on AI.</p>
+
+<p align="center">
+  <a href="https://juanmabott.github.io/Portafolio/en/">🌐 Portfolio</a> &nbsp;·&nbsp;
+  <a href="https://linkedin.com/in/juan-manuel-bottaro">💼 LinkedIn</a> &nbsp;·&nbsp;
+  <a href="mailto:Bottaro.juanmanuel@hotmail.com">📫 Email</a>
 </p>
 
-<p align="left">
- <a href="https://github.com/ryo-ma/github-profile-trophy">
-   <img src="https://github-profile-trophy.vercel.app/?username=juanmabott" alt="juanmabott" />
- </a>
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=juanmabott&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
 </p>
 
-- 📫 Cómo contactarme: **Bottaro.juanmanuel@hotmail.com**
+## 👋 About me
 
-<h3 align="left">Conectá conmigo:</h3>
+- 💼 **Junior Full Stack Developer** at [ForIT Software Factory](https://github.com/formar-it) since 2026, working across backend (NestJS) and frontend (Next.js).
+- 🎓 Finishing my **University Technical Degree in Programming** at **UTN Avellaneda**.
+- 🤖 Focusing on **software development with AI** · **Oracle Agentic AI Certified Foundations Associate**.
+- 📊 Background in statistics and data analysis from my degree.
+- 🌎 Avellaneda, Buenos Aires (UTC-3) · Spanish (native) · English ([C1, EF SET](https://cert.efset.org/es/Y8eUCJ)).
+
+## 🛠️ Tech stack
+
 <p align="left">
- <a href="https://linkedin.com/in/juan-manuel-bottaro" target="blank">
-   <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="linkedin" height="30" width="40" />
- </a>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/v2.17.0/icons/typescript/typescript-original.svg" alt="TypeScript" title="TypeScript" width="40" height="40" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/v2.17.0/icons/javascript/javascript-original.svg" alt="JavaScript" title="JavaScript" width="40" height="40" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/v2.17.0/icons/react/react-original.svg" alt="React" title="React" width="40" height="40" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/v2.17.0/icons/nextjs/nextjs-original.svg" alt="Next.js" title="Next.js" width="40" height="40" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/v2.17.0/icons/tailwindcss/tailwindcss-original.svg" alt="Tailwind CSS" title="Tailwind CSS" width="40" height="40" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/v2.17.0/icons/nodejs/nodejs-original.svg" alt="Node.js" title="Node.js" width="40" height="40" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/v2.17.0/icons/nestjs/nestjs-original.svg" alt="NestJS" title="NestJS" width="40" height="40" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/v2.17.0/icons/postgresql/postgresql-original.svg" alt="PostgreSQL" title="PostgreSQL" width="40" height="40" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/v2.17.0/icons/mongodb/mongodb-original.svg" alt="MongoDB" title="MongoDB" width="40" height="40" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/v2.17.0/icons/mysql/mysql-original.svg" alt="MySQL" title="MySQL" width="40" height="40" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/v2.17.0/icons/docker/docker-original.svg" alt="Docker" title="Docker" width="40" height="40" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/v2.17.0/icons/git/git-original.svg" alt="Git" title="Git" width="40" height="40" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/v2.17.0/icons/linux/linux-original.svg" alt="Linux" title="Linux" width="40" height="40" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/v2.17.0/icons/python/python-original.svg" alt="Python" title="Python" width="40" height="40" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/v2.17.0/icons/csharp/csharp-original.svg" alt="C#" title="C#" width="40" height="40" />
 </p>
+
+## 🚀 Featured projects
+
+- **[Biblioteca](https://github.com/Juanmabott/biblioteca)**: library management system (loans, catalog and user roles), built with Clean Architecture and TDD.<br><sub>TypeScript · Node.js · Docker Compose</sub>
+- **[DBD Ruleta](https://dbdjuan.netlify.app)**: real-time multiplayer web app where players connect peer-to-peer.<br><sub>JavaScript · WebRTC · PeerJS</sub>
+- **[Portfolio](https://juanmabott.github.io/Portafolio/en/)**: my personal site, in English and Spanish.<br><sub>React · TypeScript · Vite · Tailwind CSS</sub>
 
 ---
 
-## 🛠️ **Lenguajes y Herramientas**
-<p align="left">
+<details>
+<summary><b>💬 Versión en español</b></summary>
 
- <!-- Lenguajes principales -->
- <a href="https://developer.mozilla.org/es/docs/Web/JavaScript" target="_blank">
-   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="40" height="40"/>
- </a>
- <a href="https://www.python.org" target="_blank">
-   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40" height="40"/>
- </a>
- <a href="https://www.typescriptlang.org/" target="_blank">
-   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" width="40" height="40"/>
- </a>
- <a href="https://www.php.net" target="_blank">
-   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" width="40" height="40"/>
- </a>
+### Sobre mí
 
- <!-- HTML y CSS -->
- <a href="https://developer.mozilla.org/es/docs/Web/HTML" target="_blank">
-   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" width="40" height="40"/>
- </a>
- <a href="https://developer.mozilla.org/es/docs/Web/CSS" target="_blank">
-   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" width="40" height="40"/>
- </a>
+Construyo aplicaciones web de punta a punta, de la base de datos a la interfaz, con un foco cada vez mayor en IA.
 
- <!-- C y C# -->
- <a href="https://www.cprogramming.com/" target="_blank">
-   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" width="40" height="40"/>
- </a>
- <a href="https://learn.microsoft.com/es-es/dotnet/csharp/" target="_blank">
-   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" width="40" height="40"/>
- </a>
+- 💼 **Desarrollador Full Stack Junior** en [ForIT Software Factory](https://github.com/formar-it) desde 2026, trabajando en backend (NestJS) y frontend (Next.js).
+- 🎓 Terminando la **Tecnicatura Universitaria en Programación** en la **UTN Avellaneda**.
+- 🤖 Enfocado en el **desarrollo de software con IA** · **Oracle Agentic AI Certified Foundations Associate**.
+- 📊 Base en estadística y análisis de datos por la carrera.
+- 🌎 Avellaneda, Buenos Aires · Español (nativo) · Inglés ([C1, EF SET](https://cert.efset.org/es/Y8eUCJ)).
 
- <!-- React -->
- <a href="https://reactjs.org/" target="_blank">
-   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" width="40" height="40"/>
- </a>
+### Proyectos destacados
 
- <!-- Node.js -->
- <a href="https://nodejs.org" target="_blank">
-   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" width="40" height="40"/>
- </a>
+- **[Biblioteca](https://github.com/Juanmabott/biblioteca)**: sistema de gestión de biblioteca (préstamos, catálogo y roles), con arquitectura limpia y TDD.<br><sub>TypeScript · Node.js · Docker Compose</sub>
+- **[DBD Ruleta](https://dbdjuan.netlify.app)**: app web multijugador en tiempo real, con conexión P2P entre jugadores.<br><sub>JavaScript · WebRTC · PeerJS</sub>
+- **[Portafolio](https://juanmabott.github.io/Portafolio/)**: mi sitio personal, en español e inglés.<br><sub>React · TypeScript · Vite · Tailwind CSS</sub>
 
- <!-- Bases de Datos -->
- <a href="https://www.mysql.com/" target="_blank">
-   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" width="40" height="40"/>
- </a>
- <a href="https://www.mongodb.com/" target="_blank">
-   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" width="40" height="40"/>
- </a>
+📫 [Portafolio](https://juanmabott.github.io/Portafolio/) · [LinkedIn](https://linkedin.com/in/juan-manuel-bottaro) · [Email](mailto:Bottaro.juanmanuel@hotmail.com)
 
- <!-- Herramientas -->
- <a href="https://code.visualstudio.com/" target="_blank">
-   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" width="40" height="40"/>
- </a>
- <a href="https://git-scm.com/" target="_blank">
-   <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" width="40" height="40"/>
- </a>
- <a href="https://www.docker.com/" target="_blank">
-   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" width="40" height="40"/>
- </a>
-
- <!-- Otros -->
- <a href="https://unity.com/" target="_blank">
-   <img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" width="40" height="40"/>
- </a>
- <a href="https://www.blender.org/" target="_blank">
-   <img src="https://download.blender.org/branding/community/blender_community_badge_white.svg" width="40" height="40"/>
- </a>
-
-</p>
-
-
----
-
-## 📈 Estadísticas de GitHub
-
-<p>
- <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=juanmabott&show_icons=true&locale=es&layout=compact" alt="top-langs" />
-</p>
-
-<p>
- <img align="center" src="https://github-readme-stats.vercel.app/api?username=juanmabott&show_icons=true&locale=es" alt="stats" />
-</p>
-
-<p>
- <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=juanmabott" alt="streak" />
-</p>
+</details>
